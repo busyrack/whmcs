@@ -2,3 +2,5 @@ EULA.txt
 README.txt
 whmcs/
 publi_html/
+localdev.sh
+data/
